@@ -1,3 +1,11 @@
+# ------------------------
+# Name: decrypt-tmp.py
+# Author: Syed Hasan (@syedhasan009)
+# Date: 09-09-2021
+# Version: 0.2
+# Purpose: Decrypt configurations or encrypted payloads of Sidewinder
+# Execution: python3 decrypt-tmp.py encryptedPayload.tmp
+# ------------------------
 
 import sys
 file = sys.argv[1]
