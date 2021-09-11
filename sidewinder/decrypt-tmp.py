@@ -1,5 +1,7 @@
 
-file = 'LwBFLmM.tmp'
+import sys
+file = sys.argv[1]
+
 outputFilename = f'decrypted_{file}.tmp'
 with open(file, 'rb') as filePtr:
     content = filePtr.read()
