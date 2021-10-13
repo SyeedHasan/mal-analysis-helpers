@@ -8,6 +8,6 @@ Here's a list of decryptors/decoders I've written (categorized by the name of th
     - Decode .JS file dropped to disk
 
 ## Helpers
-Here's a list of helpers I've written to assist 
+Here's a list of helpers I've written to assist my malware analysis process:
 - convertHextoBin
     - Convert hex-encoded payload to Binary
